@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'P22 Underground';
+  src: url('assets/fonts/P22_Underground_Heavy.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+.nombreblanco {color: white;
+               font-family: 'P22 Underground';
+               }
+
+.main_menu nav > ul > li > a {color: white;
+  }
+
+.slider_text p {color: white;
+  }
+
+.header_top {background: #09030f;
+}
+
+.header_account {color: white;
+}
+
+.btn-primary {background: #09030f;
+}
+
+.remerafandom {color: white;
+               font-family: 'P22 Underground';
+               }
+
+.cositas {color: white;
+          font-family: 'P22 Underground';
+                              }
+
+.single_slider {min-height: 630px}
+
+.piedepagina {display: flex;
+justify-content: center;
+}
